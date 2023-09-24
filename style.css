@@ -1,0 +1,107 @@
+.photo {
+position: absolute;
+top: 0;
+left: 5px;
+width: 1510px;
+height: 800px;
+
+}
+
+
+.popa {
+position: absolute;
+width: 100px;
+height: 50px;
+left: 100px;
+}
+
+.slovo1 {
+position: absolute;
+width: 100px;
+height: 50px;
+color: white;
+left: 250px;
+padding: top 1px;
+}
+
+.photo1 {
+position: absolute;
+width: 40px;
+height: 40px;
+right: 100px;
+font-style: italic;
+color: aqua;
+}
+
+
+
+.slovo2 {
+position: absolute;
+width: 100px;
+height: 50px;
+padding-top: 300px;
+right: 1150px;
+color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.slovo3 {
+position: absolute;
+width: 616px;
+height: 50px;
+padding-top: 300px;
+right: 650px;
+color: #FFF;
+font-family: Poppins;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 74px; /* 123.333% */
+}
+
+.slovo4 {
+position: absolute;
+width: 581px;
+height: 55px;
+color: #FFF;
+padding-top: 600px;
+right: 680px;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+
+.slovo5 {
+position: absolute;
+width: 500px;
+height: 10px;
+color: #FFD723;
+padding-top: 750px;
+right: 750px;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-decoration-line: underline;
+}
+
+.photo2 {
+position: absolute;
+width: 156px;
+height: 113px;
+padding-top: 770px;
+right: 800px;
+}
+
+
+
+
+
+
