@@ -101,6 +101,38 @@ right: 800px;
 }
 
 
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing:border-box;
+}
+
+.geroi {
+    padding-top: 382px;
+    padding-bottom: 220px;
+    background-image: url(photo/Bitmap.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.zag {
+color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 22px;
+}
+
+
 
 
 
